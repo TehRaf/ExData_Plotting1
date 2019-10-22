@@ -1,4 +1,4 @@
-## Information of the dataset
+## Following information realtes to the changes done to the dataset
 The dataset has 9 variables in coulmns and the dataset has 2,075,259 rows.
 Filtering for the required dates 2007-02-01 and 2007-02-02 result in 2880
 Date and Time variables were converted to Proixt and added as a column named datetime
@@ -7,7 +7,7 @@ Date and Time variables were converted to Proixt and added as a column named dat
 The plots and the code is available in the repo as required by the course.
 
 
-## Introduction
+## Introduction (oringal readme below)
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
